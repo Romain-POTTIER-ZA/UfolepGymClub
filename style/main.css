@@ -20,5 +20,5 @@ body {
 }
 
 nav {
-  background: linear-gradient(90deg, #bb3082, #e64a49, #ec8816, #ceb93d, #b2d18a, #24a49d);
+  background: linear-gradient(90deg, #bb3082, #e64a49, #ec8816, #ceb93d, #b2d18a, #24a49d) !important;
 }/*# sourceMappingURL=main.css.map */

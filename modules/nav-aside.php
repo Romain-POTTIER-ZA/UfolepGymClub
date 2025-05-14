@@ -11,7 +11,7 @@
                 data-bs-target="#home-collapse" aria-expanded="true">
                 Home
             </button>
-            <div class="collapse show" id="home-collapse" style="">
+            <div class="collapse show" id="home-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                     <li><a href="#" class="link-dark rounded">Overview</a></li>
                     <li><a href="#" class="link-dark rounded">Updates</a></li>
@@ -24,7 +24,7 @@
                 data-bs-target="#dashboard-collapse" aria-expanded="false">
                 Dashboard
             </button>
-            <div class="collapse" id="dashboard-collapse" style="">
+            <div class="collapse" id="dashboard-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                     <li><a href="#" class="link-dark rounded">Overview</a></li>
                     <li><a href="#" class="link-dark rounded">Weekly</a></li>
@@ -53,7 +53,7 @@
                 data-bs-target="#account-collapse" aria-expanded="true">
                 Account
             </button>
-            <div class="collapse show" id="account-collapse" style="">
+            <div class="collapse show" id="account-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                     <li><a href="#" class="link-dark rounded">New...</a></li>
                     <li><a href="#" class="link-dark rounded">Profile</a></li>
