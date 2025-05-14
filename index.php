@@ -13,10 +13,10 @@
 <body>
 
     <nav>
-
+        <?php include_once './modules/nav_navBar.php'; ?>
     </nav>
     <aside>
-
+        <?php include_once './modules/nav-aside.php'; ?>
     </aside>
     <main class="container">
 

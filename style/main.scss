@@ -20,3 +20,16 @@ grid-template-areas:
 height: 100dvh;
 background-color: whitesmoke;
 }
+$color1:#bb3082;
+$color2:#e64a49;
+$color3:#ec8816;
+$color4:#ceb93d;
+$color5:#b2d18a;
+$color6:#24a49d;
+$lgt-color:whitesmoke;
+$drk-color:back;
+
+nav{
+
+background: linear-gradient(90deg, $color1,$color2, $color3,$color4,$color5,$color6);
+}
